@@ -1,1 +1,5 @@
 adding content to a2.txt file
+
+modefied to check the stash comment
+to check the git reset functionality
+
